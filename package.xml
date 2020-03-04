@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>gym</name>
+  <version>0.12.5</version>
+  <description>gym</description>
+
+  <maintainer email="pmitrano@umich.edu">pmitrano</maintainer>
+
+
+  <license>BSD</license>
+
+  <author >Peter Mitrano</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
